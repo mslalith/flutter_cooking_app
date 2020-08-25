@@ -7,7 +7,7 @@ Interface by [Cuberto](https://dribbble.com/cuberto).<br>
 This is created as a Flutter Web project, so you can play around with the design and help me find bugs.<br>
 [https://mslalith.github.io/flutter_cooking_app/](https://mslalith.github.io/flutter_cooking_app/ "Flutter Cooking App")
 
-![Cooking App](https://github.com/mslalith/flutter_time_tracker/blob/master/example/cooking.gif)
+![Cooking App](https://github.com/mslalith/flutter_cooking_app/blob/master/example/cooking.gif)
 
 ## Packages:
 
