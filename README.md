@@ -17,6 +17,7 @@ This is created as a Flutter Web project, so you can play around with the design
 
 I took a challenge to not use any package, and I did it.<br>
 But in my opinion, there are still some optimizations and a better approach to implement this design.<br>
+If possible, fork this repo and send a PR.
 
 You can support me by buying me a coffee.
 
